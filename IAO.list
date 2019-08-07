@@ -1,0 +1,12 @@
+OS_system_list=("CNT8:CentOS Linux release 8"
+"CNT7:CentOS Linux release 7"
+"CNT6:CentOS release 6"
+"CNT5:CentOS release 5"
+"CNT4:CentOS release 4"
+"FC3:Fedora Core release 3"
+"RHL9:Red Hat Linux release 9"
+"RHL7:Red Hat Linux release 7"
+"UT18:Ubuntu 18"
+"UT16:Ubuntu 16"
+"UT14:Ubuntu 14"
+"UT12:Ubuntu 12")
