@@ -3,15 +3,15 @@
 
 
 ## 작성자
-+ 서비스대응팀 이장재 (jjlee02@cafe24corp.com)
++ 서비스대응팀 이장재 (cine0831@gmail.com)
 
 ## 최종수정일
 + 2019-04-05
   + v1.0
 
 ## 요구사항
-+ 1) O/S 리스트 파일 - OS_system_list.list
-+ 2) 설치 대상 리스트 파일 
++ 1) O/S 리스트 파일 - IAO.list
++ 2) 설치 대상 리스트 파일 - Target.list
 
 ## 설명
 + 시스템의 O/S 배포판 및 버전을 체크하여, 설치 대상 리스트에 정의한 내용에 따라 바이너리를
@@ -53,7 +53,7 @@ ex)
 
 Usage:
 
-     Installer_autodetect_OS.sh [options]
+     IAO.sh [options]
 
 Options:
 
@@ -62,7 +62,7 @@ Options:
 
 Examples:
 
-    Installer_autodetect_OS.sh -f filename
+    IAO.sh -f filename
 
 Description:
 
