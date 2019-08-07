@@ -1,6 +1,4 @@
-* Installer for auto-detective O/S *
-=========================================
-
+# Installer for auto-detective O/S
 
 ## 작성자
 + 이장재 (cine0831@gmail.com)
