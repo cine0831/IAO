@@ -1,4 +1,4 @@
-# Installer for auto-detective O/S
+#  Installer Auto-detective O/S for binary
 
 ## 작성자
 + 이장재 (cine0831@gmail.com)
