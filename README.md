@@ -39,14 +39,14 @@ ex)
 ### 2) 설치 대상 리스트
 ex)
 ```
-  CNT4:/jjlee02/SED-111/binary/redis-2.8.24_on_cnt4_64.tar:/jjlee02/SED-111/
-  CNT6:/jjlee02/SED-111/binary/redis-2.8.24_on_cnt6_64.tar:/jjlee02/SED-111/
-  CNT7:/jjlee02/SED-111/binary/redis-2.8.24_on_cnt7_64.tar:/jjlee02/SED-111/
-  FC3:/jjlee02/SED-111/binary/redis-2.8.24_on_fc3_64.tar:/jjlee02/SED-111/
-  RHL9:/jjlee02/SED-111/binary/redis-2.8.24_on_rhl9_32.tar:/jjlee02/SED-111/
-  CNT4:/jjlee02/SED-111/binary/redis-5.0.4_on_cnt4_64.tar:/jjlee02/SED-111/
-  CNT6:/jjlee02/SED-111/binary/redis-5.0.4_on_cnt6_64.tar:/jjlee02/SED-111/
-  CNT7:/jjlee02/SED-111/binary/redis-5.0.4_on_cnt7_64.tar:/jjlee02/SED-111/
+  CNT4:/jjlee02/binary/redis-2.8.24_on_cnt4_64.tar:/jjlee02/
+  CNT6:/jjlee02/binary/redis-2.8.24_on_cnt6_64.tar:/jjlee02/
+  CNT7:/jjlee02/redis-2.8.24_on_cnt7_64.tar:/jjlee02/
+  FC3:/jjlee02/redis-2.8.24_on_fc3_64.tar:/jjlee02/
+  RHL9:/jjlee02/redis-2.8.24_on_rhl9_32.tar:/jjlee02/
+  CNT4:/jjlee02/redis-5.0.4_on_cnt4_64.tar:/jjlee02/
+  CNT6:/jjlee02/redis-5.0.4_on_cnt6_64.tar:/jjlee02/
+  CNT7:/jjlee02/redis-5.0.4_on_cnt7_64.tar:/jjlee02/
 ```
 
 ## 사용방법
