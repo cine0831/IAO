@@ -33,8 +33,8 @@ exit 1
 
 
 # O/S list
-if [ -f /usr/mgmt/IAO/OS_system_list.list ]; then
-    . /usr/mgmt/IAO/OS_system_list.list
+if [ -f /usr/mgmt/IAO/IAO.list ]; then
+    . /usr/mgmt/IAO/IAO.list
 else 
     echo "can not read O/S list."
 fi
