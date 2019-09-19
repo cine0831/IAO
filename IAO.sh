@@ -33,8 +33,8 @@ exit 1
 
 
 # O/S list
-if [ -f /usr/mgmt/IAO/IAO.list ]; then
-    . /usr/mgmt/IAO/IAO.list
+if [ -f /home/IAO/IAO.list ]; then
+    . /home/IAO/IAO.list
 else 
     echo "can not read O/S list."
 fi
@@ -61,7 +61,7 @@ done
 
 # installing
 function installing(){
-    local default_dir="/home/_work/build"
+    local default_dir="/home/build"
     local tgt_ver=$1
     local tgt_file=${default_dir}$2
     local tgt_path=${default_dir}$3
